@@ -11,7 +11,7 @@ Aplicação web simples desenvolvida com **HTML, CSS e JavaScript** que permite 
 - Exibição de **nome, notas e média** <br>
 - Interface simples e organizada <br>
 
-➡️ [Clique aqui para testar](https://figueredolp.github.io/)
+➡️ [[Clique aqui para testar](https://figueredolp.github.io/Media-de-Notas.github.io/)
 
 ## 🧮 Regra de cálculo
 
